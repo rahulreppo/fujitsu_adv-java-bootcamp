@@ -1,0 +1,5 @@
+6,3242.00,pune,rahul,saving
+7,242534.00,mum,raja,fixed
+8,34578.00,pune,komal,saving
+9,43537.00,pune,abhi,saving
+10,75447.0,mum,pooja,fixed

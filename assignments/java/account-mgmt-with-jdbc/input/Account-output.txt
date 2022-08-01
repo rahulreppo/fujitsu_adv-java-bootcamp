@@ -1,0 +1,6 @@
+123,rahul,1213.0,pune,saving,
+1,raja,6346.5,mum,fix,
+2,rani,55424.89,mum,fixed,
+3,vikya,4224.0,mum,fixed,
+4,adi,4545.77,mum,fixed,
+5,akshay,2434.0,pune,saving,
